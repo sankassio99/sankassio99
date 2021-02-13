@@ -1,4 +1,4 @@
-<img src="https://github.com/sankassio99/sankassio99/blob/main/Kassio%20dev%20(1).png" />
+<img src="https://github.com/sankassio99/sankassio99/blob/main/Kassio_dev__1_-removebg-preview.png" />
 
 ### Hi there my name is Kássio i'm front end developer 👋
 
