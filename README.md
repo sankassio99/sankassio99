@@ -16,5 +16,8 @@ Welcome to my GitHub, i hope that you like my projects and my ideas
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/kassio-santana-08111a160/)](https://www.linkedin.com/in/flavio-soares-da-silva10/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kciosantana@gmail.com)](mailto:kciosantana@gmail.com)
+
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sankassio99&show_icons=true&hide_border=true)
 
