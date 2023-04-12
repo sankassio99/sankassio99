@@ -21,5 +21,4 @@ Welcome to my GitHub, i hope that you like my projects and my ideas
 
 <h3>- 😄 "Discipline is the key between desires and their fulfillment"</h3>
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sankassio99&show_icons=true&hide_border=true)
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankassio99&layout=compact&langs_count=7&theme=dark"/>
